@@ -1,0 +1,53 @@
+body{
+    background-color: bisque;
+}
+h1{
+    border: 3px solid ;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin-left: 600px;
+    border-radius: 15px;
+}
+
+.text{
+    width: 36%;
+    height: 36%;
+    margin-left: 500px;
+    margin-top: -356px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Mj_Nadine' ;
+}
+.poster{
+    width: 20%;
+    height: 50%;
+}
+
+.holder{
+    padding: 10px 246px;
+}
+.text2{
+    width: 36%;
+    height: 34%;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Mj_Nadine' ;
+}
+.poster2{
+    width: 40%;
+    height: 40%;
+    margin-left: 432px;
+    margin-top: -223px;
+}
+button{
+    border: none;
+    width: 300px;
+    height: 35px;
+    background-color: rgb(245, 183, 106);
+    border-radius: 10px;
+    font-size: 2em;
+    font-family: 'Mj_Nadine' ;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px gray;
+}
